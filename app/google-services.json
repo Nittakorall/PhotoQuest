@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "649839195798",
+    "project_id": "fir-intro-3210d",
+    "storage_bucket": "fir-intro-3210d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649839195798:android:ace5b869c139b2c1e1f4b7",
+        "android_client_info": {
+          "package_name": "com.example.photoquest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3DIj2tUIP6YWqieHPynDWVF0BIE2-gmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
